@@ -1,0 +1,12 @@
+/* ============================================================================
+   IMAGE
+   ========================================================================= */
+.hb-image-el {
+	display: block;
+	width: auto;
+	line-height: 0;
+}
+.hb-image-el__link,
+.hb-image-el .hb-image-el__image {
+	display: inline-block;
+}

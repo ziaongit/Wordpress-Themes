@@ -1,0 +1,16 @@
+/* ============================================================================
+   HB - BUTTON basic styles.
+   Version: 5.9.5
+   ========================================================================= */
+.hb-button-el {
+	display: block;
+	width: auto;
+	line-height: normal;
+}
+.hb-button-el__link {
+	display: inline-block;
+	height: auto;
+	text-align: center;
+	transition: all .2s ease-in-out;
+	max-width: 100%;
+}
